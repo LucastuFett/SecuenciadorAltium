@@ -1,0 +1,14 @@
+Change Footprint: Footprint Not Found RPI-PICO-MOD
+Added Component: Designator=DS1(KING-WP154A4SUREQBFZGC_V)
+Added Component: Designator=S1(SW_500SSP1S1M2REA)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "500SSP1S1M2REA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=INPUT.TOG Pin=S1-2
+Added Pin To Net: NetName=+3V3RP Pin=S1-3
+Added Class: Name=OUTPUT
+Added Member To Class: ClassName=INPUT Member=Component S1 500SSP1S1M2REA

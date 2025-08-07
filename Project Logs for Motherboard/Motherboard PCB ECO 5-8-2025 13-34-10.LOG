@@ -1,0 +1,117 @@
+Change Footprint: Footprint Not Found RPI-PICO-MOD
+Change Component Footprint: Designator=D1 Old Footprint=SOD-123 New Footprint=FP-017AG-MFG
+Change Component Footprint: Designator=R1 Old Footprint=STACKPOLE CSR1210 New Footprint=RES_AC03_VIS
+Change Component Comment : Designator=D1 Old Comment=1N4148W-E3-08 New Comment=1N4148
+Change Component Comment : Designator=U1 Old Comment=Comment New Comment=RPI-PICO-ULTIMATE
+Change Component Comment : Designator=R1 Old Comment=Value New Comment=AC03000005009JAC00
+Change Managed Component Library Link : Designator=D1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=8A7F5A04-E3E7-4D12-9EFB-51032ABC8890 Old RevisionGUID= New RevisionGUID=E1D42850-6AB0-4A7A-985E-6B1B8C1B077F
+Change Managed Component Library Link : Designator=R1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=42E5FF33-5864-4C31-88A8-15BED69D77E5 Old RevisionGUID= New RevisionGUID=91482FF6-F6B5-44D3-8DCD-EEC664924324
+Change component parameters: Designator = "D1" ("D1"); Footprint = "SOD-123"; UniqueID = "\QZEAUQOD\YVJNYNOT" ("\QZEAUQOD\YVJNYNOT")
+Change component parameters (AddParameter): Name = "Average Rectified Current"; Value = "200mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "4pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "DO-35"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = "4A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "200mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diameter"; Value = "1.91mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Element Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Current"; Value = "300mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Voltage"; Value = "1V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.56mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "4.56mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Forward Surge Current (Ifsm)"; Value = "1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "175°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "500mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Repetitive Reverse Voltage (Vrrm)"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Reverse Current"; Value = "5uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Reverse Voltage (DC)"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Surge Current"; Value = "4A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-65°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Current"; Value = "200mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Outside Diameter"; Value = "1.85mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Peak Non-Repetitive Surge Current"; Value = "4A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Dissipation"; Value = "500mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Recovery Time"; Value = "4ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse Recovery Time"; Value = "4ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse Voltage"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "0.01lb"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "1.91mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "STACKPOLE CSR1210"; UniqueID = "\QZEAUQOD\SSICICFR" ("\QZEAUQOD\SSICICFR")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "Axial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Composition"; Value = "Wirewound"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diameter"; Value = "4.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Flame Retardant Coating"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Diameter"; Value = "800µm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "13mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "275°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "3W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "39746332"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape & Box (TB)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "3W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "50O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Schedule B"; Value = "8533210080, 8533210080|8533210080|8533210080|8533210080|8533210080"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "-80ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Axial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "4.8006mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "12V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "12V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "4.8mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1" ("U1"); Footprint = "SAMTEC SSW-110-03-T-S"; UniqueID = "\OJDKYIQQ\NIVKUGBA" ("\OJDKYIQQ\NIVKUGBA")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Raspberry Pi Foundation"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No"; Value = "SC0915"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Link"; Value = "https://www.digikey.com/en/products/detail/raspberry-pi/SC0915/13684020"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part No"; Value = "2648-SC0915CT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SC_MISO Pin=U1-1
+Added Pin To Net: NetName=SC_CS Pin=U1-2
+Added Pin To Net: NetName=SC_SCK Pin=U1-3
+Added Pin To Net: NetName=SC_MOSI Pin=U1-4
+Added Pin To Net: NetName=NetU1_5 Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=NetU1_7 Pin=U1-7
+Added Pin To Net: NetName=ROT_A Pin=U1-8
+Added Pin To Net: NetName=ROT_B Pin=U1-9
+Added Pin To Net: NetName=SD_MISO Pin=U1-10
+Added Pin To Net: NetName=SD_CS Pin=U1-11
+Added Pin To Net: NetName=SD_SCK Pin=U1-12
+Added Pin To Net: NetName=SD_MOSI Pin=U1-13
+Added Pin To Net: NetName=MIDI_TX Pin=U1-14
+Added Pin To Net: NetName=GND Pin=U1-15
+Added Pin To Net: NetName=MIDI_RX Pin=U1-16
+Added Pin To Net: NetName=ROT_SW Pin=U1-17
+Added Pin To Net: NetName=EX_SW Pin=U1-18
+Added Pin To Net: NetName=R1 Pin=U1-19
+Added Pin To Net: NetName=R2 Pin=U1-20
+Added Pin To Net: NetName=R3 Pin=U1-21
+Added Pin To Net: NetName=R4 Pin=U1-22
+Added Pin To Net: NetName=R5 Pin=U1-23
+Added Pin To Net: NetName=C1 Pin=U1-24
+Added Pin To Net: NetName=C2 Pin=U1-25
+Added Pin To Net: NetName=C3 Pin=U1-30
+Added Pin To Net: NetName=C4 Pin=U1-31
+Added Pin To Net: NetName=T32 Pin=U1-32
+Added Pin To Net: NetName=GND Pin=U1-35
+Added Pin To Net: NetName=+3V3RP Pin=U1-36
+Added Pin To Net: NetName=GND Pin=U1-38
+Added Pin To Net: NetName=+5 Pin=U1-39
+Added Member To Class: ClassName=MCU Member=Component U1 RPI-PICO-ULTIMATE

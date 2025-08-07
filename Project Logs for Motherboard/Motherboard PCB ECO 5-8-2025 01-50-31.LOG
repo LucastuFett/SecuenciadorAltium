@@ -1,0 +1,75 @@
+Added Component: Designator=C1(CAPR51-254-508X318X736)
+Add component (AddParameter): Name = "Case\Package"; Value = "SOT-23-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.kemet.com/docfinder?Partnumber=C320C104K5R5TA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Dec-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dropout Voltage"; Value = "260 mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Input Voltage"; Value = "8 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "250 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "150 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "5 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Through Hole Device, Body 5.08 x 3.18 mm, Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CAPR51-254-508X318X736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.8 mm"; VariantName = "[No Variations]"
+Added Component: Designator=D1(SOD-123)
+Add component (AddParameter): Name = "Part Number"; Value = "1N4148W-E3-08"; VariantName = "[No Variations]"
+Added Component: Designator=J1(TE 282834-5)
+Add component (AddParameter): Name = "Part Number"; Value = "282834-5"; VariantName = "[No Variations]"
+Added Component: Designator=R1(STACKPOLE CSR1210)
+Add component (AddParameter): Name = "Package / Case"; Value = "220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SR732ETTE10R0F"; VariantName = "[No Variations]"
+Add component: Footprint Not Found RPI-PICO-MOD
+Added Component: Designator=U2(DIP762W50P254L1018H450Q8)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/6N138/Isocom/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Isocom Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "6N138"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DIP-8 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/6N138/Isocom/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Net: Name=+3V3RP
+Added Net: Name=+5
+Added Net: Name=C1
+Added Net: Name=C2
+Added Net: Name=C3
+Added Net: Name=C4
+Added Net: Name=EX_SW
+Added Net: Name=GND
+Added Net: Name=MIDI_RX
+Added Net: Name=MIDI_TX
+Added Net: Name=NetU1_5
+Added Net: Name=NetU1_7
+Added Net: Name=R1
+Added Net: Name=R2
+Added Net: Name=R3
+Added Net: Name=R4
+Added Net: Name=R5
+Added Net: Name=ROT_A
+Added Net: Name=ROT_B
+Added Net: Name=ROT_SW
+Added Net: Name=SC_CS
+Added Net: Name=SC_MISO
+Added Net: Name=SC_MOSI
+Added Net: Name=SC_SCK
+Added Net: Name=SD_CS
+Added Net: Name=SD_MISO
+Added Net: Name=SD_MOSI
+Added Net: Name=SD_SCK
+Added Net: Name=T32
+Added Class: Name=MCU
+Added Class: Name=MIDI
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2

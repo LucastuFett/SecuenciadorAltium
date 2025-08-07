@@ -1,0 +1,103 @@
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=+5 Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=+5 Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=+5 Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=+5 Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=+5 Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=+5 Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=+5 Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=+5 Pin=C17-2
+Added Pin To Net: NetName=NetDS8_4 Pin=DS9-1
+Added Pin To Net: NetName=+5 Pin=DS9-2
+Added Pin To Net: NetName=GND Pin=DS9-3
+Added Pin To Net: NetName=NetDS9_4 Pin=DS9-4
+Added Pin To Net: NetName=NetDS9_4 Pin=DS10-1
+Added Pin To Net: NetName=+5 Pin=DS10-2
+Added Pin To Net: NetName=GND Pin=DS10-3
+Added Pin To Net: NetName=NetDS10_4 Pin=DS10-4
+Added Pin To Net: NetName=NetDS10_4 Pin=DS11-1
+Added Pin To Net: NetName=+5 Pin=DS11-2
+Added Pin To Net: NetName=GND Pin=DS11-3
+Added Pin To Net: NetName=NetDS11_4 Pin=DS11-4
+Added Pin To Net: NetName=NetDS11_4 Pin=DS12-1
+Added Pin To Net: NetName=+5 Pin=DS12-2
+Added Pin To Net: NetName=GND Pin=DS12-3
+Added Pin To Net: NetName=LED2 Pin=DS12-4
+Added Pin To Net: NetName=LED2 Pin=DS13-1
+Added Pin To Net: NetName=+5 Pin=DS13-2
+Added Pin To Net: NetName=GND Pin=DS13-3
+Added Pin To Net: NetName=NetDS13_4 Pin=DS13-4
+Added Pin To Net: NetName=NetDS13_4 Pin=DS14-1
+Added Pin To Net: NetName=+5 Pin=DS14-2
+Added Pin To Net: NetName=GND Pin=DS14-3
+Added Pin To Net: NetName=NetDS14_4 Pin=DS14-4
+Added Pin To Net: NetName=NetDS14_4 Pin=DS15-1
+Added Pin To Net: NetName=+5 Pin=DS15-2
+Added Pin To Net: NetName=GND Pin=DS15-3
+Added Pin To Net: NetName=NetDS15_4 Pin=DS15-4
+Added Pin To Net: NetName=NetDS15_4 Pin=DS16-1
+Added Pin To Net: NetName=+5 Pin=DS16-2
+Added Pin To Net: NetName=GND Pin=DS16-3
+Added Pin To Net: NetName=C1 Pin=SW13-1
+Added Pin To Net: NetName=C1 Pin=SW13-2
+Added Pin To Net: NetName=INPUT.R4 Pin=SW13-3
+Added Pin To Net: NetName=INPUT.R4 Pin=SW13-4
+Added Pin To Net: NetName=C2 Pin=SW14-1
+Added Pin To Net: NetName=C2 Pin=SW14-2
+Added Pin To Net: NetName=INPUT.R4 Pin=SW14-3
+Added Pin To Net: NetName=INPUT.R4 Pin=SW14-4
+Added Pin To Net: NetName=C3 Pin=SW15-1
+Added Pin To Net: NetName=C3 Pin=SW15-2
+Added Pin To Net: NetName=INPUT.R4 Pin=SW15-3
+Added Pin To Net: NetName=INPUT.R4 Pin=SW15-4
+Added Pin To Net: NetName=C4 Pin=SW16-1
+Added Pin To Net: NetName=C4 Pin=SW16-2
+Added Pin To Net: NetName=INPUT.R4 Pin=SW16-3
+Added Pin To Net: NetName=INPUT.R4 Pin=SW16-4
+Added Pin To Net: NetName=C1 Pin=SW17-1
+Added Pin To Net: NetName=C1 Pin=SW17-2
+Added Pin To Net: NetName=INPUT.R5 Pin=SW17-3
+Added Pin To Net: NetName=INPUT.R5 Pin=SW17-4
+Added Pin To Net: NetName=C2 Pin=SW18-1
+Added Pin To Net: NetName=C2 Pin=SW18-2
+Added Pin To Net: NetName=INPUT.R5 Pin=SW18-3
+Added Pin To Net: NetName=INPUT.R5 Pin=SW18-4
+Added Pin To Net: NetName=C3 Pin=SW19-1
+Added Pin To Net: NetName=C3 Pin=SW19-2
+Added Pin To Net: NetName=INPUT.R5 Pin=SW19-3
+Added Pin To Net: NetName=INPUT.R5 Pin=SW19-4
+Added Pin To Net: NetName=C4 Pin=SW20-1
+Added Pin To Net: NetName=C4 Pin=SW20-2
+Added Pin To Net: NetName=INPUT.R5 Pin=SW20-3
+Added Pin To Net: NetName=INPUT.R5 Pin=SW20-4
+Added Member To Class: ClassName=OUTPUT Member=Component C10 10uF
+Added Member To Class: ClassName=OUTPUT Member=Component C11 10uF
+Added Member To Class: ClassName=OUTPUT Member=Component C12 10uF
+Added Member To Class: ClassName=OUTPUT Member=Component C13 10uF
+Added Member To Class: ClassName=OUTPUT Member=Component C14 10uF
+Added Member To Class: ClassName=OUTPUT Member=Component C15 10uF
+Added Member To Class: ClassName=OUTPUT Member=Component C16 10uF
+Added Member To Class: ClassName=OUTPUT Member=Component C17 10uF
+Added Member To Class: ClassName=OUTPUT Member=Component DS9 8mmLED
+Added Member To Class: ClassName=OUTPUT Member=Component DS10 8mmLED
+Added Member To Class: ClassName=OUTPUT Member=Component DS11 8mmLED
+Added Member To Class: ClassName=OUTPUT Member=Component DS12 8mmLED
+Added Member To Class: ClassName=OUTPUT Member=Component DS13 8mmLED
+Added Member To Class: ClassName=OUTPUT Member=Component DS14 8mmLED
+Added Member To Class: ClassName=OUTPUT Member=Component DS15 8mmLED
+Added Member To Class: ClassName=OUTPUT Member=Component DS16 8mmLED
+Added Member To Class: ClassName=INPUT Member=Component SW13 MJTP1212A
+Added Member To Class: ClassName=INPUT Member=Component SW14 MJTP1212A
+Added Member To Class: ClassName=INPUT Member=Component SW15 MJTP1212A
+Added Member To Class: ClassName=INPUT Member=Component SW16 MJTP1212A
+Added Member To Class: ClassName=INPUT Member=Component SW17 MJTP1212A
+Added Member To Class: ClassName=INPUT Member=Component SW18 MJTP1212A
+Added Member To Class: ClassName=INPUT Member=Component SW19 MJTP1212A
+Added Member To Class: ClassName=INPUT Member=Component SW20 MJTP1212A

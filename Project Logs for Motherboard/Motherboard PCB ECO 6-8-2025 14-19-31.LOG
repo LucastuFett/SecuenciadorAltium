@@ -1,0 +1,34 @@
+Change Physical Footprint: Designator=C1 Old Footprint=CAPR51-254-508X318X736 New Footprint=CAPR51-254-508X318X736
+Change Physical Footprint: Designator=D1 Old Footprint=FP-017AG-MFG New Footprint=FP-017AG-MFG
+Change Physical Footprint: Designator=ENC1 Old Footprint=FP-PEC16-4020F-S0024-MFG New Footprint=FP-PEC16-4020F-S0024-MFG
+Change Physical Footprint: Designator=J1 Old Footprint=TE 282834-5 New Footprint=TE 282834-5
+Change Physical Footprint: Designator=J2 Old Footprint=TE 282834-5 New Footprint=TE 282834-5
+Change Physical Footprint: Designator=R1 Old Footprint=RES_AC03_VIS New Footprint=RES_AC03_VIS
+Change Physical Footprint: Designator=R2 Old Footprint=RES_AC03_VIS New Footprint=RES_AC03_VIS
+Change Physical Footprint: Designator=R3 Old Footprint=RES_AC03_VIS New Footprint=RES_AC03_VIS
+Change Physical Footprint: Designator=R4 Old Footprint=RES_AC03_VIS New Footprint=RES_AC03_VIS
+Change Physical Footprint: Designator=R5 Old Footprint=RES_AC03_VIS New Footprint=RES_AC03_VIS
+Change Physical Footprint: Designator=S1 Old Footprint=SW_500SSP1S1M2REA New Footprint=SW_500SSP1S1M2REA
+Change Physical Footprint: Designator=SW1 Old Footprint=FP-MJTP1212A-MFG New Footprint=FP-MJTP1212A-MFG
+Change Physical Footprint: Designator=SW2 Old Footprint=FP-MJTP1212A-MFG New Footprint=FP-MJTP1212A-MFG
+Change Physical Footprint: Designator=SW3 Old Footprint=FP-MJTP1212A-MFG New Footprint=FP-MJTP1212A-MFG
+Change Physical Footprint: Designator=SW4 Old Footprint=FP-MJTP1212A-MFG New Footprint=FP-MJTP1212A-MFG
+Change Physical Footprint: Designator=SW5 Old Footprint=FP-MJTP1212A-MFG New Footprint=FP-MJTP1212A-MFG
+Change Physical Footprint: Designator=SW6 Old Footprint=FP-MJTP1212A-MFG New Footprint=FP-MJTP1212A-MFG
+Change Physical Footprint: Designator=SW7 Old Footprint=FP-MJTP1212A-MFG New Footprint=FP-MJTP1212A-MFG
+Change Physical Footprint: Designator=SW8 Old Footprint=FP-MJTP1212A-MFG New Footprint=FP-MJTP1212A-MFG
+Change Physical Footprint: Designator=SW9 Old Footprint=FP-MJTP1212A-MFG New Footprint=FP-MJTP1212A-MFG
+Change Physical Footprint: Designator=SW10 Old Footprint=FP-MJTP1212A-MFG New Footprint=FP-MJTP1212A-MFG
+Change Physical Footprint: Designator=SW11 Old Footprint=FP-MJTP1212A-MFG New Footprint=FP-MJTP1212A-MFG
+Change Physical Footprint: Designator=SW12 Old Footprint=FP-MJTP1212A-MFG New Footprint=FP-MJTP1212A-MFG
+Change Physical Footprint: Designator=SW13 Old Footprint=FP-MJTP1212A-MFG New Footprint=FP-MJTP1212A-MFG
+Change Physical Footprint: Designator=SW14 Old Footprint=FP-MJTP1212A-MFG New Footprint=FP-MJTP1212A-MFG
+Change Physical Footprint: Designator=SW15 Old Footprint=FP-MJTP1212A-MFG New Footprint=FP-MJTP1212A-MFG
+Change Physical Footprint: Designator=SW16 Old Footprint=FP-MJTP1212A-MFG New Footprint=FP-MJTP1212A-MFG
+Change Physical Footprint: Designator=SW17 Old Footprint=FP-MJTP1212A-MFG New Footprint=FP-MJTP1212A-MFG
+Change Physical Footprint: Designator=SW18 Old Footprint=FP-MJTP1212A-MFG New Footprint=FP-MJTP1212A-MFG
+Change Physical Footprint: Designator=SW19 Old Footprint=FP-MJTP1212A-MFG New Footprint=FP-MJTP1212A-MFG
+Change Physical Footprint: Designator=SW20 Old Footprint=FP-MJTP1212A-MFG New Footprint=FP-MJTP1212A-MFG
+Change Physical Footprint: Designator=SW21 Old Footprint=FP-MJTP1212A-MFG New Footprint=FP-MJTP1212A-MFG
+Change Physical Footprint: Designator=U2 Old Footprint=DIP762W50P254L1018H450Q8 New Footprint=DIP762W50P254L1018H450Q8
+Change Physical Footprint: Designator=U3 Old Footprint=N0014A New Footprint=N0014A
