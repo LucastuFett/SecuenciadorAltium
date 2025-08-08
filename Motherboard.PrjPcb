@@ -457,6 +457,9 @@ OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
+[Generic_CoDesigner Mechatronic Panel]
+LastAcknowledgment=2025-08-08T20:15:20.0000000
+
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
