@@ -36,7 +36,10 @@ ConstraintManagerFlow=0
 IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=
+ManagedProjectGUID=6AFF938F-6C26-4BB2-B30D-F45B3A1933E2
+VaultGUID=E995EAF5-6C55-43E9-BF1E-5DC989935DCB
+ReleaseVaultName=Lucas Gutiérrez
+ItemGUID=6AFF938F-6C26-4BB2-B30D-F45B3A1933E2
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
 CrossRefLocationStyle=1
@@ -67,40 +70,6 @@ GenerateClassCluster=0
 DocumentUniqueId=OCSCFBUV
 
 [Document2]
-DocumentPath=..\..\..\..\..\AltiumLibrary\RPi-Pico-Altium-master\RPi_Pico.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DCMMUOMN
-
-[Document3]
-DocumentPath=..\..\..\..\..\AltiumLibrary\RPi-Pico-Altium-master\RPi_Pico.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CCDFMJCL
-
-[Document4]
 DocumentPath=Main.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +86,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MNHAFFMA
 
-[Document5]
+[Document3]
 DocumentPath=MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +103,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QDESGVOJ
 
-[Document6]
+[Document4]
 DocumentPath=Motherboard.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +120,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CAEPKPIV
 
-[Document7]
+[Document5]
 DocumentPath=MCU.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +137,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document6]
 DocumentPath=MIDI.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,24 +154,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QUXSGAES
 
-[Document9]
-DocumentPath=..\..\..\..\..\AltiumLibrary\RPi-Pico-Altium-master\Pico_Headers.PCBLIB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=IOVYWBGM
-
-[Document10]
+[Document7]
 DocumentPath=MIDI.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +171,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document8]
 DocumentPath=INPUT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +188,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UPQTTQKK
 
-[Document12]
+[Document9]
 DocumentPath=INPUT.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +205,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document10]
 DocumentPath=OUTPUT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +222,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AINZWRTH
 
-[Document14]
+[Document11]
 DocumentPath=8mmLED.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +239,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AAVDQZJF
 
-[Document15]
+[Document12]
 DocumentPath=8mmLED.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +256,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WKILWNDT
 
-[Document16]
+[Document13]
 DocumentPath=PERIPHERALS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +273,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MSGHXBXE
 
-[Document17]
+[Document14]
 DocumentPath=Libraries\Components - 06.08.25 - 20.05.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +290,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document15]
 DocumentPath=PERIPHERALS.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +307,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document16]
 DocumentPath=Libraries\ILI9341.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +324,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PHGIXMEM
 
-[Document20]
+[Document17]
 DocumentPath=Libraries\ILI9341.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +341,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BKMGQYYQ
 
-[Document21]
+[Document18]
 DocumentPath=Libraries\Components - 06.08.25 - 20.57.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +358,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document19]
 DocumentPath=Libraries\Components - 06.08.25 - 21.00.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,8 +375,59 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document20]
 DocumentPath=Libraries\Components - 05.08.25 - 14.49.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document21]
+DocumentPath=Libraries\Components - 08.08.25 - 12.57.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document22]
+DocumentPath=Libraries\Pico_Headers.PCBLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document23]
+DocumentPath=Libraries\RPi_Pico.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1408,9 +1411,9 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=ILI9341.SchLib
-ComponentDesignItemID0=ILI9341
-ComponentSymbolReference0=ILI9341
+ComponentLibraryIdentifier0=Components - 05.08.25 - 13.31.IntLib
+ComponentDesignItemID0=CMP-00030-39746332-1
+ComponentSymbolReference0=CMP-00030-39746332-1
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -1426,19 +1429,78 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Comment
+ParameterName0=Case/Package
 ParameterUpdate0=1
-ParameterName1=Component Kind
+ParameterName1=Comment
 ParameterUpdate1=1
-ParameterName2=Description
+ParameterName2=Component Kind
 ParameterUpdate2=1
-ParameterName3=Library Reference
+ParameterName3=Composition
 ParameterUpdate3=1
-ModelTypeGroup0=PCBLIB
+ParameterName4=Contact Plating
+ParameterUpdate4=1
+ParameterName5=Description
+ParameterUpdate5=1
+ParameterName6=Diameter
+ParameterUpdate6=1
+ParameterName7=Features
+ParameterUpdate7=1
+ParameterName8=Lead Diameter
+ParameterUpdate8=1
+ParameterName9=Length
+ParameterUpdate9=1
+ParameterName10=Library Reference
+ParameterUpdate10=1
+ParameterName11=Max Operating Temperature
+ParameterUpdate11=1
+ParameterName12=Max Power Dissipation
+ParameterUpdate12=1
+ParameterName13=Min Operating Temperature
+ParameterUpdate13=1
+ParameterName14=NexarPartId
+ParameterUpdate14=1
+ParameterName15=Number of Pins
+ParameterUpdate15=1
+ParameterName16=Number of Terminations
+ParameterUpdate16=1
+ParameterName17=Packaging
+ParameterUpdate17=1
+ParameterName18=Power Rating
+ParameterUpdate18=1
+ParameterName19=Radiation Hardening
+ParameterUpdate19=1
+ParameterName20=REACH SVHC
+ParameterUpdate20=1
+ParameterName21=Resistance
+ParameterUpdate21=1
+ParameterName22=RoHS
+ParameterUpdate22=1
+ParameterName23=Schedule B
+ParameterUpdate23=1
+ParameterName24=Temperature Coefficient
+ParameterUpdate24=1
+ParameterName25=Termination
+ParameterUpdate25=1
+ParameterName26=Thickness
+ParameterUpdate26=1
+ParameterName27=Tolerance
+ParameterUpdate27=1
+ParameterName28=Voltage Rating
+ParameterUpdate28=1
+ParameterName29=Voltage Rating (DC)
+ParameterUpdate29=1
+ParameterName30=Width
+ParameterUpdate30=1
+ModelTypeGroup0=PCB
 ModelTypeUpdate0=1
-ModelType0=PCBLIB
-ModelName0=ILI9341
+ModelType0=PCB
+ModelName0=RES_AC03_VIS
 ModelUpdate0=1
+ModelTypeGroup1=PCBLIB
+ModelTypeUpdate1=1
+ModelType1=PCBLIB
+ModelName1=RES_AC03_VIS
+ModelUpdate1=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
